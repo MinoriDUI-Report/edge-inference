@@ -1,0 +1,22 @@
+# 빌드 결과물
+/target/
+
+# Cargo.lock (프로젝트 타입에 따라 포함 결정)
+/Cargo.lock
+
+# IDE 설정 파일
+.idea/
+.vscode/
+*.iml
+
+# 사용자 별 환경 설정 파일
+workspace.xml
+shelf/
+
+/httpRequests/
+
+# macOS, Windows 생성 파일
+.DS_Store
+Thumbs.db
+
+# 로그/임시 파일 (필요에 따라 추가)
